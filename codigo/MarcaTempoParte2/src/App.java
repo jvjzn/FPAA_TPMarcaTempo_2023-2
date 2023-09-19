@@ -1,5 +1,3 @@
-package pacote;
-
 import java.util.Random;
 
 public class App {
